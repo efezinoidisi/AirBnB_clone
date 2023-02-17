@@ -1,0 +1,28 @@
+.places {
+    position: relative;
+}
+
+.places h1 {
+    font-size: 30px;
+}
+
+.places article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.places article h2 {
+    font-size: 30px;
+}
+
+.places article:last-of-type {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 100%;
+}
