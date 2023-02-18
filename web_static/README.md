@@ -10,3 +10,9 @@ it consists of :
 - style sheets
 - no javascript
 - no data loaded from anything
+
+
+##### View Live
+
+
+- <a href="https://airbnb-web-static.netlify.app/102-index.html" target="_blank"> AirBnB_clone web_static </a>
