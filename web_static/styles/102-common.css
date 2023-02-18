@@ -22,3 +22,17 @@ body {
     max-width: 1000px;
     margin: 30px auto;
 }
+
+@media screen and (max-width:900px) {
+    .container{
+        width: 90%;
+        
+    }
+}
+
+@media screen and (max-width:600px) {
+    .container {
+            width: 95%;
+    
+        }
+}

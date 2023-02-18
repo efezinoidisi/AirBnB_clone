@@ -82,3 +82,32 @@
 .popover h2 {
     font-size: 16px;
 }
+
+@media screen and (max-width:900px) {
+    .filters {
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:600px) {
+   
+    .filters button {
+        right: 15px;
+    }
+
+    .filters .locations,
+    .filters .amenities {
+        width: 30%;
+        padding-left: 15px;
+    }
+
+    .filters .locations:hover .popover,
+    .filters .amenities:hover .popover {
+        padding: 2rem 1rem;
+    }
+
+    .filters .locations h4,
+    .filters .amenities h4 {
+        font-size: 12px;
+    }
+}
