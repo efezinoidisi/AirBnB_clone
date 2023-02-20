@@ -76,7 +76,8 @@
     background-size: 40%;
     background-position: center top;
     text-align: center;
-    padding: 1rem 0;
+    display: inline-block;
+    padding-top: 1.2rem;
 }
 
 .max_guest {
