@@ -2,7 +2,8 @@ footer {
     background-color: #FFF;
     height: 60px;
     width: 100%;
-    margin-top: auto;
+    position: fixed;
+    bottom: 0;
     border-top: 1px solid #CCCCCC;
     display: flex;
     justify-content: center;

@@ -25,6 +25,7 @@
     align-items: center;
 }
 
+
 .places-first-row{
     display: flex;
 }
@@ -154,4 +155,8 @@
 
 .places .reviews li {
     padding-bottom: 1rem;
+}
+
+footer {
+    position: relative;
 }

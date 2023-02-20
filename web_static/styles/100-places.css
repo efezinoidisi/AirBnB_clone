@@ -162,3 +162,7 @@
 .places .reviews li {
     padding-bottom: 1rem;
 }
+
+footer {
+    position: relative;
+}
